@@ -84,7 +84,6 @@
 - **Advanced System Design & Architecture**: Exploring distributed systems, event-driven architectures, and cloud-native patterns
 - **Performance Engineering**: Delving into low-latency optimizations, caching strategies, and database query optimization
 - **Observability & SRE**: Implementing comprehensive monitoring, logging, and tracing in microservices ecosystems
-- **Containerization & DevOps**: Gaining hands-on experience with Docker container optimization and implementing CI/CD pipelines using Linux-based tooling
 
 ## 🌐 Connect with Me
 
