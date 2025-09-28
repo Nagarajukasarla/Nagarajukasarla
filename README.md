@@ -88,7 +88,7 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
 
   <a href="https://nagarajukasarla.live" target="_blank">
     <img src="https://raw.githubusercontent.com/Nagarajukasarla/Portfolio-V2/master/public/nagarajukasarla-logo.png" alt="Nagarajukasarla Logo" width="43" height="43" />
