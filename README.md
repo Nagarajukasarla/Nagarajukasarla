@@ -2,11 +2,12 @@
 
 <div align="center">
 
-  <b>I am a full stack developer with a passion for building innovative and user-friendly applications and  looking for new challenges and opportunities to learn and grow.</b>
-   
+<b>I am a full stack developer with a passion for building innovative and user-friendly applications and looking for new challenges and opportunities to learn and grow.</b>
+
 </div>
 
 ## 🛠 Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -88,16 +89,14 @@
 ## 🌐 Connect with Me
 
 <div align="center">
+
   <a href="https://nagarajukasarla.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://raw.githubusercontent.com/Nagarajukasarla/Portfolio-V2/master/public/nagarajukasarla-logo.png" alt="Nagarajukasarla Logo" width="43" height="43" />
   </a>
   <a href="https://linkedin.com/in/nagaraju-kasarla-645697232" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/nagarajukasarla" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
