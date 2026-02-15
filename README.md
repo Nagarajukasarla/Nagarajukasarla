@@ -58,16 +58,6 @@
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagarajukasarla&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> &nbsp
-  
-  <img src="https://streak-stats.demolab.com?user=nagarajukasarla&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nagarajukasarla.nagarajukasarla&"  />
 </div>
